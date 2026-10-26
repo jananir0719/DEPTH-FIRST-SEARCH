@@ -1,7 +1,7 @@
 # BREADTH-FIRST-SEARCH
 <h1>ExpNo 3 : Implement Breadth First Search Traversal of a Graph</h1> 
-<h3>Name:  </h3>
-<h3>Register Number: </h3>
+<h3>Name: JANANI R </h3>
+<h3>Register Number: 212225220041</h3>
 <H3>Aim:</H3>
 <p>To Implement Breadth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
@@ -103,7 +103,13 @@ G F <BR>
 <hr>
 ['0', '1', '2', '3', '4']
 <hr>
+<h3>Program</h3>
+<img width="676" height="702" alt="Screenshot 2026-10-26 091031" src="https://github.com/user-attachments/assets/626f0a58-edee-4ea9-81c9-355ce7f2cf39" />
+<h3>Output</h3>
+<img width="582" height="485" alt="Screenshot 2026-10-26 091022" src="https://github.com/user-attachments/assets/c8d079f5-f988-412a-aaa7-c1e62690dd5d" />
+
 <h3>Result:</h3>
+
 <hr>
 <p>Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.</p>
 
